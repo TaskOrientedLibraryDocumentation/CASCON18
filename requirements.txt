@@ -1,0 +1,9 @@
+pyquery
+pymongo
+pycorenlp
+scikit-learn
+nltk
+numpy
+pdb
+picke
+Py-StackExchange
